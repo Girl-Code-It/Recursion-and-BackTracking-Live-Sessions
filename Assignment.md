@@ -30,7 +30,8 @@ For tomorrow's live sessions:
 3. https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-subsequence-official/ojquestion
 4. https://practice.geeksforgeeks.org/problems/subset-sums2234/1
 5. https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/
-6. https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/
+6. https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+7. https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/
 
 Some More Questions:
 
