@@ -41,12 +41,11 @@ void rec(string input,int index,string output,vector<string> &v){
 vector<string>  spaceString(char str[])
 {
     string input = str;
-      vector<string>v; 
-      string curr="";
-     curr+=input[0];
-      rec(input,1,curr,v);
-      return v;
-     
+    vector<string>v; 
+    string curr="";
+    curr+=input[0];
+    rec(input,1,curr,v);
+    return v;
 }
 
 
